@@ -26,6 +26,8 @@ npm install
 npm start
 Open your browser and visit http://localhost:5173/ to see the application in action.
 
+use this url to view url:https://main--helpful-nougat-5ab9da.netlify.app/
+
 Features
 Dynamic Cart Updates: Add, remove, and update item quantities in real-time.
 Context API Integration: Manage cart state globally across the application.
