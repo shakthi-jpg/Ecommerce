@@ -1,0 +1,86 @@
+/* General Navbar Styles */
+.navbar {
+    background-color: #343a40; /* Dark background */
+    padding: 1rem 1.5rem;
+  }
+  
+  .navbar-brand {
+    color: white;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo-icon {
+    font-size: 2rem; /* Adjust size of the logo icon */
+  }
+  
+  .brand-name {
+    font-size: 1.5rem; /* Increase font size for the brand name */
+  }
+  
+  .navbar-toggler {
+    border: none;
+    background: transparent;
+  }
+  
+  .navbar-toggler-icon {
+    background-image: url('data:image/svg+xml;charset=utf8,%3Csvg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"%3E%3Cpath stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"%3E%3C/path%3E%3C/svg%3E');
+  }
+  
+  .navbar-nav .nav-link {
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 0.5rem 1rem; /* Added padding for better spacing */
+  }
+  
+  .navbar-nav .nav-link:hover {
+    background-color: #495057; /* Darker background on hover */
+    border-radius: 4px; /* Rounded corners on hover */
+  }
+  
+  .nav-icon, .cart-icon {
+    font-size: 1.25rem; /* Adjust icon size */
+  }
+  
+  .cart-icon {
+    font-size: 2rem;
+  }
+  
+  .badge {
+    font-size: 1rem;
+    padding: 0.4rem 0.8rem;
+    border-radius: 50%;
+  }
+  
+  /* Animation for the cart icon */
+  @keyframes cartAnimation {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px); /* Adjust the vertical movement */
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+  
+  .animate-cart {
+    animation: cartAnimation 1s infinite; /* Adjust the duration as needed */
+  }
+  
+  /* Mobile Responsiveness */
+  @media (max-width: 768px) {
+    .navbar-nav {
+      text-align: center;
+      margin-top: 0.5rem;
+    }
+  
+    .nav-item {
+      margin: 0.5rem 0;
+    }
+  }
+
+  

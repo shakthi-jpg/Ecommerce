@@ -1,0 +1,134 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 2000,
+      "thumbnail": "https://m.media-amazon.com/images/I/71657TiFeHL._AC_UY218_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "title": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 899,
+      "thumbnail": "https://m.media-amazon.com/images/I/71E5zB1qbIL._AC_UY218_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "title": "Samsung Universe 9",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 1249,
+      "category": "smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/71VW8LmqqPL._SX425_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "title": "watch",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "price": 280,
+      "thumbnail": "https://m.media-amazon.com/images/I/416I09b9fiL._SX300_SY300_QL70_FMwebp_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "title": " watch ",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 499,
+      "thumbnail": "https://m.media-amazon.com/images/I/61s734tDFyL._AC_UY218_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "title": "MacBook Pro",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "price": 1749,
+      "thumbnail": "https://m.media-amazon.com/images/I/71NPEI1B9wL._AC_UY218_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "title": "Samsung Galaxy Book",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "price": 1499,
+      "thumbnail": "https://m.media-amazon.com/images/I/71ef1yicMJL._AC_UY218_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "title": "Pullover",
+      "description": "Google Pixel 6 with the latest Google Tensor processor and a high-resolution display.",
+      "price": 599,
+      "thumbnail": "https://m.media-amazon.com/images/I/51JHXf+TVwL._AC_UL320_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 9,
+      "title": "shoe",
+      "description": "Sony Xperia 1 III features a 6.5-inch 4K OLED display and triple camera setup.",
+      "price": 1199,
+      "thumbnail": "https://m.media-amazon.com/images/I/61B4qwjvqkL._SY575_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 10,
+      "title": "Joystick",
+      "description": "OnePlus 9 with Hasselblad camera and Snapdragon 888 processor.",
+      "price": 729,
+      "thumbnail": "https://m.media-amazon.com/images/I/41zsXOJslQL._SX300_SY300_QL70_FMwebp_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 11,
+      "title": "Bag",
+      "description": "Dell XPS 13 with 11th Gen Intel processors and stunning display.",
+      "price": 1199,
+      "thumbnail": "https://m.media-amazon.com/images/I/713QvcUcPiL._SX679_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 12,
+      "title": "pens",
+      "description": "HP Spectre x360 2-in-1 laptop with Intel Core i7 and 4K touch display.",
+      "price": 1399,
+      "thumbnail": "https://m.media-amazon.com/images/I/41j0BSiqdEL._SX300_SY300_QL70_FMwebp_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 13,
+      "title": "pc",
+      "description": "Acer Aspire 5 with AMD Ryzen 5 and a full HD display.",
+      "price": 699,
+      "thumbnail": "https://m.media-amazon.com/images/I/41dtRPYZIAL._SX300_SY300_QL70_FMwebp_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 14,
+      "title": "camera",
+      "description": "Lenovo ThinkPad X1 Carbon with ultra-slim design and powerful performance.",
+      "price": 1599,
+      "thumbnail": "https://m.media-amazon.com/images/I/51E5TaxRvxL._AC_UY218_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 15,
+      "title": "keyboard",
+      "description": "Asus ZenBook 14 with AMD Ryzen 7 and compact design.",
+      "price": 849,
+      "thumbnail": "https://m.media-amazon.com/images/I/41znuB8Y0qL._SX300_SY300_QL70_FMwebp_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 16,
+      "title": "computer",
+      "description": "Microsoft Surface Pro 7 with Intel Core i5 and detachable keyboard.",
+      "price": 749,
+      "thumbnail": "https://m.media-amazon.com/images/I/612CyMLlFlL._SX569_.jpg",
+      "quantity": 1
+    }
+   
+  ]
+}
